@@ -11,9 +11,3 @@ Table of Contents:
    Settingupi3    
    
 
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
