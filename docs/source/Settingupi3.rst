@@ -48,7 +48,11 @@ There are three main services or scripts that need to be started:
 * i3_mosquitto
 * i3_parser_agent
 
+**Configuration Information**
+-----------------------------
+The system administator is required to add an email address to the marketplace configuarion email. This email address will be used to send an email to the users of the marketplace. 
 
+Besides, the I3 marketplace uses the Google Maps API to display the products on a map. The system administator is required to set up a Google Maps API when setting up an instance.
 
 
 **I3 installation on Ubuntu 16.04 or 18.03**
