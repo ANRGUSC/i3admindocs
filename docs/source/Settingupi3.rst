@@ -233,16 +233,6 @@ Run :
   sudo lsof -i :(PORT NUMBER)
   $ sudo kill -9 (PORT NUMBER) or sudo kill $(lsof -t -i :PORT NUMBER)
 
-**Features**
-============
-
-1. Supports TLS 1.2 on port 8883
-2. Supports TLS 1.1 on port 9001
-3. Supports Web Socket on port 9010
-4. Scripts to backup I3 instance and restore
-5. Scripts to setup I3 on both ubuntu and debian instance
-6. Automated installation of I3 instance
-
 **License**
 ===========
 
