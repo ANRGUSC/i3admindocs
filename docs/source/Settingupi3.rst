@@ -1,4 +1,4 @@
-**SETTING UP LOCAL INSTANCE OF I3**
+**I3 Admin Documentation**
 ###################################
 
 
